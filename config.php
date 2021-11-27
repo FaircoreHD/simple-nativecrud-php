@@ -6,6 +6,6 @@
 $databaseHost = 'localhost';
 $databaseName = 'utsitb';
 $databaseUsername = 'root';
-$databasePassword = 'harwin23';
+$databasePassword = '';
  
 $mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); 
