@@ -67,31 +67,6 @@
                     </div>';
                     break;
             }
-            // if(isset($_GET['act'])) {
-            //     if($_GET['act'] == "insertBerhasil") {
-            //         echo '<div class="w3-panel w3-blue w3-display-container">
-            //         <a href="index.php"><span onclick="this.parentElement.style.display=\'none\'"
-            //         class="w3-button w3-display-topright">X</span></a>
-            //         <p>Berhasil menambahkan mahasiswa, tekan X untuk menutup modal</p>
-            //         </div>';
-            //     }
-
-            //     if($_GET['act'] == "delBerhasil") {
-            //         echo '<div class="w3-panel w3-blue w3-display-container">
-            //         <a href="index.php"><span onclick="this.parentElement.style.display=\'none\'"
-            //         class="w3-button w3-display-topright">X</span></a>
-            //         <p>Berhasil menghapus mahasiswa, tekan X untuk menutup modal</p>
-            //         </div>';
-            //     }
-
-            //     if($_GET['act'] == "delGagal") {
-            //         echo '<div class="w3-panel w3-red w3-display-container">
-            //         <a href="index.php"><span onclick="this.parentElement.style.display=\'none\'"
-            //         class="w3-button w3-display-topright">X</span></a>
-            //         <p>Gagal menghapus mahasiswa, tekan X untuk menutup modal</p>
-            //         </div>';
-            //     }
-            // }
         ?>
 
         <div id="id01" class="modal">

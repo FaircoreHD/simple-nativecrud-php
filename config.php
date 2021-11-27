@@ -4,7 +4,7 @@
  */
  
 $databaseHost = 'localhost';
-$databaseName = 'mahasiswa';
+$databaseName = 'db_mahasiswa';
 $databaseUsername = 'root';
 $databasePassword = '';
  
