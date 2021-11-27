@@ -4,7 +4,7 @@
  */
  
 $databaseHost = 'localhost';
-$databaseName = 'utsitb';
+$databaseName = 'mahasiswa';
 $databaseUsername = 'root';
 $databasePassword = '';
  
